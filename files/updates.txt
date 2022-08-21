@@ -21,3 +21,4 @@ testing WSL2 Debian terminal push with no pw prompt
 git push with terminal no work without prompt, have to use vscode, which is fine
 
 testing git sync from laptop
+
