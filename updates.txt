@@ -22,3 +22,4 @@ git push with terminal no work without prompt, have to use vscode, which is fine
 
 testing git sync from laptop
 
+testing 05/12/2023
